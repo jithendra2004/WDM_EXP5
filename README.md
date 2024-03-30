@@ -77,5 +77,8 @@ if __name__ == "__main__":
     print(f"Results for '{query1}': {indexer.boolean_search(query1)}")
 
 ### Output:
+![316214492-bcb2d1cc-c5aa-4895-bb4b-65b63af31358](https://github.com/jithendra2004/WDM_EXP5/assets/94226297/3f713921-39b4-470c-8e60-ed4804de9769)
 
 ### Result:
+Implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
+
